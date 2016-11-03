@@ -2,3 +2,6 @@
 	path = 2016-11-01-triangle-bitcoin-meetup/slides
   url = https://github.com/martindale/elements-project.git
   branch = triangle-bitcoin-meetup
+[submodule "2016-07-07-la-maison-du-bitcoin/slides"]
+	path = 2016-07-07-la-maison-du-bitcoin/slides
+	url = https://github.com/martindale/elements-project.git
