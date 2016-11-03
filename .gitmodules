@@ -5,3 +5,12 @@
 [submodule "2016-07-07-la-maison-du-bitcoin/slides"]
 	path = 2016-07-07-la-maison-du-bitcoin/slides
 	url = https://github.com/martindale/elements-project.git
+[submodule "2015-04-17-bitcoin-consumer-fair/slides"]
+	path = 2015-04-17-bitcoin-consumer-fair/slides
+	url = https://github.com/martindale/copay-wallet.git
+[submodule "2015-04-17-atlanta-node-meetup/slides"]
+	path = 2015-04-17-atlanta-node-meetup/slides
+	url = https://github.com/martindale/why-maki.git
+[submodule "2015-03-08-mit-bitcon-expo/slides"]
+	path = 2015-03-08-mit-bitcon-expo/slides
+	url = https://github.com/martindale/beyond-bitcoin.git
