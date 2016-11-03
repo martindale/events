@@ -1,16 +1,24 @@
-[submodule "2016-11-01-triangle-bitcoin-meetup/presentation"]
-	path = 2016-11-01-triangle-bitcoin-meetup/slides
+[submodule "2015-03-08-mit-bitcon-expo/slides"]
+  path = 2015-03-08-mit-bitcon-expo/slides
+  url = https://github.com/martindale/beyond-bitcoin.git
+  branch = mit-bitcoin-expo
+[submodule "2015-04-09-atlanta-node-meetup/slides"]
+  path = 2015-04-17-atlanta-node-meetup/slides
+  url = https://github.com/martindale/why-maki.git
+  branch = atlanta-node-meetup
+[submodule "2015-04-17-bitcoin-consumer-fair/slides"]
+  path = 2015-04-17-bitcoin-consumer-fair/slides
+  url = https://github.com/martindale/copay-wallet.git
+  branch = bitcoin-consumer-fair
+[submodule "2016-07-07-la-maison-du-bitcoin/slides"]
+  path = 2016-07-07-la-maison-du-bitcoin/slides
+  url = https://github.com/martindale/elements-project.git
+  branch = la-maison-du-bitcoin
+[submodule "2016-10-27-bitcoin-implications/slides"]
+  path = 2016-10-27-bitcoin-implications/slides
+  url = https://github.com/martindale/bitcoin-implications.git
+  branch = lightning-talk
+[submodule "2016-11-01-triangle-bitcoin-meetup/slides"]
+  path = 2016-11-01-triangle-bitcoin-meetup/slides
   url = https://github.com/martindale/elements-project.git
   branch = triangle-bitcoin-meetup
-[submodule "2016-07-07-la-maison-du-bitcoin/slides"]
-	path = 2016-07-07-la-maison-du-bitcoin/slides
-	url = https://github.com/martindale/elements-project.git
-[submodule "2015-04-17-bitcoin-consumer-fair/slides"]
-	path = 2015-04-17-bitcoin-consumer-fair/slides
-	url = https://github.com/martindale/copay-wallet.git
-[submodule "2015-04-17-atlanta-node-meetup/slides"]
-	path = 2015-04-17-atlanta-node-meetup/slides
-	url = https://github.com/martindale/why-maki.git
-[submodule "2015-03-08-mit-bitcon-expo/slides"]
-	path = 2015-03-08-mit-bitcon-expo/slides
-	url = https://github.com/martindale/beyond-bitcoin.git
